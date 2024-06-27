@@ -1,2 +1,1 @@
-# WeatherApp
-weather-app-six-azure-60.vercel.app
+https://weather-4s9m161dp-prabhu-jis-projects.vercel.app/
